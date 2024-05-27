@@ -28,7 +28,7 @@ app.post('/generate', async (req, res) => {
 });
 
 app.get('/', (req, res) => {
-    res.send('Hello World!')
+    res.send('Hello World! This is Predicting-AI. How can I help you to predict today?')
 })
 
 app.listen(port, () => {
