@@ -8,7 +8,7 @@ import {
 } from "@google/generative-ai";
 
 const MODEL_NAME = "gemini-1.5-flash-latest";
-const API_KEY = "AIzaSyA4_W6tc3P2H8S-3smZWLdd1ATAAO0do_k";
+const API_KEY = "AIzaSyBkYi9wauL62-J1U2twB2gCjjkOPd-qWZo";
 
 const app = express();
 const port = process.env.PORT || 3000;
